@@ -1,2 +1,2 @@
-# Final-Project
+# Hotel Booking Website
 Final Year Project
