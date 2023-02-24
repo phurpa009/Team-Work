@@ -1,2 +1,2 @@
 # Hotel Booking Website
-Final Year Project
+Final Year Group Project
